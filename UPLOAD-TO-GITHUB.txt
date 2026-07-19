@@ -1,0 +1,5 @@
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. Upload index.html, legal.html, privacy.html, README.md, UPLOAD-TO-GITHUB.txt and the assets folder directly to the ROOT of the GitHub repository.
+4. Do not upload the ZIP itself. Do not upload a parent folder around these files.
+5. Commit changes, wait about one minute, then refresh the GitHub Pages URL with Ctrl+F5.
