@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexandarngoranov-lang.github.io/Bike-n-You/sitemap.xml
